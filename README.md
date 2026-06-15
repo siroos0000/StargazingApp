@@ -1,12 +1,18 @@
-All impacts are summed and converted to an equivalent Bortle increment.
-3. **Final Bortle** = Base Bortle + increment (clamped to 1–9).
+#  Gini Stargazing | جینی: رصد ستارگان
 
-### Example
-If you are 30 km from a city of 500,000 population and 80 km from a city of 200,000:
-- Impact₁ = (500000⁰·⁸) / 30² ≈ 237.5
-- Impact₂ = (200000⁰·⁸) / 80² ≈ 18.3
-- Total impact ≈ 255.8 → adds ~1.2 Bortle classes on top of a rural base (Class 3) → Final Bortle = 4 (Rural/suburban transition).
+<div align="center">
 
+**Calculate night sky quality and find the perfect time for stargazing.**
+**محاسبه کیفیت آسمان شب و یافتن بهترین زمان برای رصد ستارگان.**
+
+[![Platform](https://img.shields.io/badge/Platform-Android-green)]()
+[![Framework](https://img.shields.io/badge/Framework-.NET%20MAUI-purple)]()
+[![Language](https://img.shields.io/badge/Language-C%23-blue)]()
+[![License](https://img.shields.io/badge/License-MIT-yellow)]()
+
+**[🌍 English](#-english)** | **[🇮🇷 فارسی](#-فارسی)**
+
+</div>
 ## 📸 Screenshots
 <p align="center">
 <img src="ScreenShots/1.png" width="30%" alt="Main screen - English"/>
