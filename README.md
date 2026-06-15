@@ -43,9 +43,9 @@ Whether you're planning a telescope session or a naked-eye meteor shower watch, 
 
 ## 📸 Screenshots
 <p align="center">
-<img src="screenshots/1.png" width="30%" alt="Main screen"/>
-<img src="screenshots/2.png" width="30%" alt="Score details"/>
-<img src="screenshots/3.png" width="30%" alt="Persian interface"/>
+<img src="ScreenShots/1.png" width="30%" alt="Main screen"/>
+<img src="ScreenShots/2.png" width="30%" alt="Score details"/>
+<img src="ScreenShots/3.png" width="30%" alt="Persian interface"/>
 </p>
 
 ## 📥 Installation
@@ -97,9 +97,9 @@ No license is currently assigned to this project. All rights reserved until furt
 
 ## 📸 تصاویر برنامه
 <p align="center">
-<img src="screenshots/1.png" width="30%" alt="صفحه اصلی"/>
-<img src="screenshots/2.png" width="30%" alt="جزئیات امتیاز"/>
-<img src="screenshots/3.png" width="30%" alt="رابط فارسی"/>
+<img src="ScreenShots/1.png" width="30%" alt="صفحه اصلی"/>
+<img src="ScreenShots/2.png" width="30%" alt="جزئیات امتیاز"/>
+<img src="ScreenShots/3.png" width="30%" alt="رابط فارسی"/>
 </p>
 
 ## 📥 نصب
