@@ -55,10 +55,15 @@ Whether you're planning a telescope session or a naked-eye meteor shower watch, 
 
 
 ## 🚀 Usage
-- Launch the app. It will fetch your location and display the current Sky Quality Score.
-- Tap on any metric (Clouds, Moon, Light Pollution) to see its detailed contribution.
-- Use the time slider to check forecast quality for later tonight.
-- Switch language at any time.
+- Open the app.
+- Tap the "Get Your Location" button.
+- Allow location access when prompted.
+- Wait while the app:
+  • Gets your GPS position
+  • Fetches weather data from the server
+  • Calculates sky quality
+- The result shows sky quality score, Bortle class, and details.
+-Switch language at any time.
 
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.  
@@ -108,11 +113,16 @@ No license is currently assigned to this project. All rights reserved until furt
 ۳. برنامه را نصب کرده و مجوز مکان را برای دریافت مختصات خودکار بدهید.  
 
 ## 🚀 روش استفاده
-- برنامه را باز کنید. مکان شما دریافت شده و امتیاز کیفیت آسمان نمایش داده می‌شود.
-- روی هر معیار (ابر، ماه، آلودگی نوری) ضربه بزنید تا سهم دقیق آن را ببینید.
-- با نوار زمان می‌توانید پیش‌بینی کیفیت برای ساعات بعدی امشب را بررسی کنید.
--زبان برنامه را در هر زمان تغییر دهید.
-
+- برنامه را باز کنید.
+- روی دکمه "دریافت موقعیت شما" ضربه بزنید.
+- اجازه دسترسی به موقعیت مکانی را بدهید.
+- منتظر بمانید تا برنامه:
+  • موقعیت GPS شما را دریافت کند
+  • اطلاعات آب‌وهوا را از سرور بگیرد
+  • کیفیت آسمان را محاسبه کند
+- نتیجه شامل امتیاز کیفیت آسمان، کلاس بورتل و جزئیات نمایش داده می‌شود.
+- زبان برنامه را در هر زمان تغییر دهید.
+- 
 ## 🤝 مشارکت
 درخواست‌های Pull Request با آغوش باز پذیرفته می‌شوند! برای تغییرات بزرگ، لطفاً ابتدا یک Issue باز کنید تا در مورد آن گفتگو کنیم.  
 اگر از پروژه لذت می‌برید، با دادن یک ⭐ در گیت‌هاب از ما حمایت کنید!
