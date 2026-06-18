@@ -50,6 +50,7 @@ Whether you're planning a telescope session or a naked-eye meteor shower watch, 
 <img src="ScreenShots/1.png" width="30%" alt="Main screen"/>
 <img src="ScreenShots/2.png" width="30%" alt="Score details"/>
 <img src="ScreenShots/3.png" width="30%" alt="Persian interface"/>
+  <img src="ScreenShots/4.png" width="30%" alt="Setting"/>
 </p>
 
 ## 📥 Installation
@@ -116,6 +117,7 @@ No license is currently assigned to this project. All rights reserved until furt
 <img src="ScreenShots/1.png" width="30%" alt="صفحه اصلی"/>
 <img src="ScreenShots/2.png" width="30%" alt="جزئیات امتیاز"/>
 <img src="ScreenShots/3.png" width="30%" alt="رابط فارسی"/>
+<img src="ScreenShots/4.png" width="30%" alt="تنظیمات"/>  
 </p>
 
 ## 📥 نصب
